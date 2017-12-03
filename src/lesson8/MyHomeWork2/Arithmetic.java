@@ -13,7 +13,7 @@ public class Arithmetic {
                 max = el;
             }
         }
-        return sum > 100;
+        return sum < 100;
 
     }
 }
